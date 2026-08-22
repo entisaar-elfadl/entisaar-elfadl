@@ -41,7 +41,7 @@ Some things I've worked on include:
 - 💰 **BudgetWise** , a gamified budgeting web application
 - 💳 **Zen-i** , a financial inclusion platform exploring Buy Now, Pay Later and Open Payments
 - 🔐 **Cybersecurity Projects** , including vulnerability assessment, phishing awareness, and API security
-- 🌍 **SudaCape Tours** , a tourism platform I'm working on with my family
+- 🌍 **SudaCape Tours** , a tourism platform I'm currently working on with my family
 
 ## 🌱 What I'm Working Towards
 
